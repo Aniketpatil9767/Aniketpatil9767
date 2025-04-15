@@ -1,13 +1,15 @@
-<h1 align="center">Hi 👋, I'm Aniket Prashant Patil</h1>
-<h3 align="center">A passionate for learning</h3>
+<h1 align="center">Hello 👋, I'm Aniket Prashant Patil</h1>
+<h3 align="center"> I’m a passionate ML enthusiast with hands-on experience in building and deploying models using Python,
+ TensorFlow, and scikit-learn. I enjoy solving real-world problems with data and have a strong foundation in model
+ development, preprocessing, and cloud integration. Excited to contribute and grow as an ML Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketprashantpatil&label=Profile%20views&color=0e75b6&style=flat" alt="aniketprashantpatil" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniketprashantpatil" alt="aniketprashantpatil" /></a> </p>
 
-- 🌱 I’m currently learning **c,c++**
 
-- 📫 How to reach me **aniketpatil2214@gmail.com**
+
+- 📫 How to reach me **aniketpatil2214@gmail.com | linkedin.com/in/aniketp-patil**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
